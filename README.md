@@ -35,3 +35,5 @@
 - Fabrizio Moreno
 
 Ejercicios de carácter puramente educativo.
+
+Ejercicios para aprender las funciones datetime, bucles y validaciones en Python
