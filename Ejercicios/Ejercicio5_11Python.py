@@ -1,8 +1,8 @@
 # 5. Crea un programa en Python que acepte una cadena de caracteres y devuelva la cadena invertida (por ejemplo, "hola" se convertiría en "aloh").
 # El programa debe utilizar un bucle `for` para recorrer la cadena y construir la cadena invertida.
 def principal():
-    print("Introduce una cadena de caracteres:")
-    cadena = input()
+    #print("Introduce una cadena de caracteres:")
+    cadena = input("Introduce una cadena de caracteres:")
     i = 0
     letrinv = ""
     cadinv = ""
